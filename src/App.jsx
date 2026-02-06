@@ -11,7 +11,6 @@ import PageLoader from './components/PageLoader'
 
 import { Toaster } from 'react-hot-toast'
 
-
 export default function App() {
   const {checkAuth, isCheckingAuth, authUser} = useAuthStore()
 
