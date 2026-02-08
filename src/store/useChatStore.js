@@ -2,7 +2,6 @@
 // BY GOD'S GRACE ALONE
 
 import { create } from "zustand";
-import { getAllContacts } from "../../../backend/src/controllers/message.controller";
 import { axiosInstance } from "../lib/axios";
 
 export const useChatStore = create((set,get)=>({
