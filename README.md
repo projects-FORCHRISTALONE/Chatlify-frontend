@@ -20,7 +20,7 @@ Features:
 
 ---
 
-## 🧪 Visit:
-(https://chatlify-frontend-seven.vercel.app/)
+## 🚀 Visit:
+https://chatlify-frontend-seven.vercel.app/
 
 
